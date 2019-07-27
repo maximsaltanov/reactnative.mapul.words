@@ -10,6 +10,7 @@ This is a very simple application for memorizing words. Looks like 'any memo' ap
 - Run 'npm install' in order to install dependencies
 - Install Expo CLI by running 'npm install -g expo-cli'
 - At this point you can run your app in Expo 'expo r -c'
+- If you have problems with running Expo CLI at incorrect port then you can change it with a command "set REACT_NATIVE_PACKAGER_HOSTNAME=my-custom-ip-address"
 
 ## Tech
 
